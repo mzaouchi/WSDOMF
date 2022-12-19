@@ -92,3 +92,5 @@ for (let i = 0; i < btnsMoins.length; i++) {
 }
 
 
+// var divM = document.querySelector('#main')
+// divM.remove()
